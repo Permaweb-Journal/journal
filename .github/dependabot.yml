@@ -1,0 +1,43 @@
+version: 2
+updates:
+  # NPM dependencies
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday" # Run on Sundays to avoid midweek distractions
+    open-pull-requests-limit: 5 # Prevents Dependabot from flooding PRs
+    groups:
+      production-dependencies:
+        applies-to: "security-updates" # Only allow security updates
+        patterns:
+          - "*"
+    ignore:
+      - dependency-name: "*" # Ignore minor and patch updates
+        update-types: ["version-update:semver-patch", "version-update:semver-minor"]
+    allow:
+      - dependency-type: "direct" # Update only production dependencies, not devDependencies
+    labels:
+      - "dependencies"
+      - "security"
+    commit-message:
+      prefix: "chore(deps):"
+      include: "scope"
+
+  # GitHub Actions workflow dependencies
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+    groups:
+      ci-dependencies:
+        applies-to: "security-updates" # Only allow security updates
+        patterns:
+          - "*"
+    ignore:
+      - dependency-name: "*" # Ignore minor and patch updates
+        update-types: ["version-update:semver-patch", "version-update:semver-minor"]
+    labels:
+      - "ci"
+      - "dependencies"
