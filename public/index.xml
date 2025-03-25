@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Permaweb Journal</title>
+      <link>https://permaweb-journal.arweave.net</link>
+      <description>Last 10 notes on Permaweb Journal</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+  <title>SevenX Ventures</title>
+  <link>https://permaweb-journal.arweave.net/projects/sevenx-ventures.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/sevenx-ventures.html</guid>
+  <description>A research-driven crypto venture.</description>
+  <pubDate>Mon, 24 Mar 2025 14:50:25 GMT</pubDate>
+</item><item>
+  <title>Permanent Ventures</title>
+  <link>https://permaweb-journal.arweave.net/projects/permanent-ventures.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/permanent-ventures.html</guid>
+  <description>Arweave and AO incubation and venture fund.</description>
+  <pubDate>Mon, 24 Mar 2025 14:47:31 GMT</pubDate>
+</item><item>
+  <title>Hansa</title>
+  <link>https://permaweb-journal.arweave.net/projects/hansa.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/hansa.html</guid>
+  <description>Arweave and AO incubation and venture fund.</description>
+  <pubDate>Mon, 24 Mar 2025 14:45:03 GMT</pubDate>
+</item><item>
+  <title>Arweave SCP</title>
+  <link>https://permaweb-journal.arweave.net/projects/arweave-scp.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/arweave-scp.html</guid>
+  <description>Arweave and AO incubation and venture fund.</description>
+  <pubDate>Mon, 24 Mar 2025 14:42:19 GMT</pubDate>
+</item><item>
+  <title>AO Ventures</title>
+  <link>https://permaweb-journal.arweave.net/projects/ao-ventures.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/ao-ventures.html</guid>
+  <description>AO and Arweave incubator and venture fund.</description>
+  <pubDate>Mon, 24 Mar 2025 14:38:50 GMT</pubDate>
+</item><item>
+  <title>AOX</title>
+  <link>https://permaweb-journal.arweave.net/projects/quantum.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/quantum.html</guid>
+  <description>Bridge, trade, earn on AO with USDA and Q Arweave.</description>
+  <pubDate>Mon, 24 Mar 2025 14:34:35 GMT</pubDate>
+</item><item>
+  <title>AOX</title>
+  <link>https://permaweb-journal.arweave.net/projects/aox.html</link>
+  <guid>https://permaweb-journal.arweave.net/projects/aox.html</guid>
+  <description>Bridge assets to the AO ecosystem with AOX built by EverVision Labs.</description>
+  <pubDate>Mon, 24 Mar 2025 14:32:09 GMT</pubDate>
+</item><item>
+  <title>Legacynet SU compatibility: What this latest update means for HyperBEAM</title>
+  <link>https://permaweb-journal.arweave.net/article/hyperbeam-milestone-3.html</link>
+  <guid>https://permaweb-journal.arweave.net/article/hyperbeam-milestone-3.html</guid>
+  <description>AO-Core just hit a major milestone: legacynet processes can now execute on HyperBEAM. This update brings seamless interoperability, improved performance, and a smoother transition from testnet to mainnet.</description>
+  <pubDate>Mon, 24 Mar 2025 08:34:02 GMT</pubDate>
+</item><item>
+  <title>The role of AO in the permaweb ecosystem - A beginner’s guide</title>
+  <link>https://permaweb-journal.arweave.net/article/ao-permaweb-guide.html</link>
+  <guid>https://permaweb-journal.arweave.net/article/ao-permaweb-guide.html</guid>
+  <description>The permaweb is a permanent, decentralized web built on Arweave, and AO provides the computational layer to power its next evolution. Learn how AO and HyperBeam enables decentralized applications, sustainable funding, and a new paradigm for the web.</description>
+  <pubDate>Thu, 20 Mar 2025 16:44:35 GMT</pubDate>
+</item><item>
+  <title>AO 101</title>
+  <link>https://permaweb-journal.arweave.net/reference/ao.html</link>
+  <guid>https://permaweb-journal.arweave.net/reference/ao.html</guid>
+  <description>AO is a “hyper-parallel computer” designed to provide secure and scalable computing power. AO combines the reliability of blockchain technology with the efficiency and speed of traditional cloud services.</description>
+  <pubDate>Wed, 19 Mar 2025 16:22:20 GMT</pubDate>
+</item>
+    </channel>
+  </rss>
