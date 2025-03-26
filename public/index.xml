@@ -6,6 +6,24 @@
       <description>Last 10 notes on Permaweb Journal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+  <title>AO is shaping up to become a gaming chain</title>
+  <link>https://permaweb-journal.arweave.net/article/ao-gaming-chain.html</link>
+  <guid>https://permaweb-journal.arweave.net/article/ao-gaming-chain.html</guid>
+  <description>Gaming on AO is one of the most exciting areas to watch. This post explores why AO is positioned to become a leading gaming chain.</description>
+  <pubDate>Wed, 26 Mar 2025 13:56:31 GMT</pubDate>
+</item><item>
+  <title>The transition from AO legacynet to mainnet: What builders and users need to know</title>
+  <link>https://permaweb-journal.arweave.net/article/legacynet-mainnet-transition.html</link>
+  <guid>https://permaweb-journal.arweave.net/article/legacynet-mainnet-transition.html</guid>
+  <description>This post explains why the transition from legacynet to mainnet matters, the current state of HyperBEAM, and how both developers and users can prepare. ...</description>
+  <pubDate>Tue, 25 Mar 2025 19:54:13 GMT</pubDate>
+</item><item>
+  <title>AO core components</title>
+  <link>https://permaweb-journal.arweave.net/reference/ao-core-components.html</link>
+  <guid>https://permaweb-journal.arweave.net/reference/ao-core-components.html</guid>
+  <description>AO is powered by a modular architecture that ensures secure, scalable, and efficient computation. This page provides an in-depth look at AO's core components and their roles in the network.</description>
+  <pubDate>Tue, 25 Mar 2025 12:39:09 GMT</pubDate>
+</item><item>
   <title>SevenX Ventures</title>
   <link>https://permaweb-journal.arweave.net/projects/sevenx-ventures.html</link>
   <guid>https://permaweb-journal.arweave.net/projects/sevenx-ventures.html</guid>
@@ -47,24 +65,6 @@
   <guid>https://permaweb-journal.arweave.net/projects/aox.html</guid>
   <description>Bridge assets to the AO ecosystem with AOX built by EverVision Labs.</description>
   <pubDate>Mon, 24 Mar 2025 14:32:09 GMT</pubDate>
-</item><item>
-  <title>Legacynet SU compatibility: What this latest update means for HyperBEAM</title>
-  <link>https://permaweb-journal.arweave.net/article/hyperbeam-milestone-3.html</link>
-  <guid>https://permaweb-journal.arweave.net/article/hyperbeam-milestone-3.html</guid>
-  <description>AO-Core just hit a major milestone: legacynet processes can now execute on HyperBEAM. This update brings seamless interoperability, improved performance, and a smoother transition from testnet to mainnet.</description>
-  <pubDate>Mon, 24 Mar 2025 08:34:02 GMT</pubDate>
-</item><item>
-  <title>The role of AO in the permaweb ecosystem - A beginner’s guide</title>
-  <link>https://permaweb-journal.arweave.net/article/ao-permaweb-guide.html</link>
-  <guid>https://permaweb-journal.arweave.net/article/ao-permaweb-guide.html</guid>
-  <description>The permaweb is a permanent, decentralized web built on Arweave, and AO provides the computational layer to power its next evolution. Learn how AO and HyperBeam enables decentralized applications, sustainable funding, and a new paradigm for the web.</description>
-  <pubDate>Thu, 20 Mar 2025 16:44:35 GMT</pubDate>
-</item><item>
-  <title>AO 101</title>
-  <link>https://permaweb-journal.arweave.net/reference/ao.html</link>
-  <guid>https://permaweb-journal.arweave.net/reference/ao.html</guid>
-  <description>AO is a “hyper-parallel computer” designed to provide secure and scalable computing power. AO combines the reliability of blockchain technology with the efficiency and speed of traditional cloud services.</description>
-  <pubDate>Wed, 19 Mar 2025 16:22:20 GMT</pubDate>
 </item>
     </channel>
   </rss>

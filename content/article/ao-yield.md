@@ -6,7 +6,7 @@ tags:
 ---
 
 ![PI Header](/static/images/pi-header.png)
-The **Permaweb Index** launches on **3.14 (Pi Day)**, introducing a new model for funding crypto projects. Users can allocate their AO yield to Permaweb Index projects to earn PI tokens. This guide explains how to allocate AO yield step by step.
+The **Permaweb Index** launched on **3.14 (Pi Day)**, introducing a new model for funding crypto projects. Users can allocate their AO yield to Permaweb Index projects to earn PI tokens. This guide explains how to allocate AO yield step by step.
 
 ## What is the Permaweb Index?
 

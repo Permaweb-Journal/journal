@@ -1,80 +1,91 @@
 ---
 title: AO 101
-description: 
+description: AO is a decentralized supercomputer powered by Arweave
 permalink: 
-tags:
+tags: 
+excludeMeta: "true"
 ---
-AO is a “hyper-parallel computer” designed to provide secure and scalable computing power. AO combines the reliability of blockchain technology with the efficiency and speed of traditional cloud services. Think of it as a cloud computing platform where scale and decentralization meet, with no limits to size or capacity.
 
-Curious about how it all works? Let’s break it down step by step.
+## What is AO?
 
-## How Does AO Work?
+AO is a decentralized supercomputer powered by Arweave. AO is known as the “hyper-parallel computer” because it offers decentralized compute without any practical bounds on scale. It combines the reliability of blockchain technology with the efficiency of cloud services, enabling limitless computation and storage without bottlenecks.
 
-At the heart of AO is the concept of **processes**, which are independent programs running on the network. These processes communicate by sending and receiving **messages**, creating a seamless flow of interactions across the system. This architecture is powered by Arweave, which serves as the permanent storage layer for all data and interactions.
+## How does AO work?
 
-This combination allows AO to deliver:
+At the heart of AO is the concept of **processes**, which are independent programs running on the network. These processes communicate by sending and receiving messages, ensuring a seamless, decentralized computing environment.
 
-- **Parallel Processing:** Tasks run independently and simultaneously, enabling massive scalability without bottlenecks.
-- **Unlimited Computation:** There’s no cap on the size of data or computation, users pay only for what they use.
-- **Autonomous Functionality:** AO processes can execute tasks automatically, such as at scheduled intervals.
+**Core components of AO**
 
-## Core Components of AO
+AO is powered by several key components that handle storage, computation, and communication:
 
-To understand how AO operates, let’s explore its essential building blocks:
+- **AO-Core** – The foundational protocol that enables processes and message passing.
+- **HyperBEAM** – A high-performance execution engine for running AO processes efficiently.
+- **Messenger Units (MUs)** – Route messages and manage interactions between processes.
+- **Compute Units (CUs)** – Execute computations and verify results.
+- **Scheduler Units (SUs)** – Maintain order and integrity of all messages.
 
-### Processes
+For more detailed information on how these components work together, visit the [core components](ao-core-components.md) page.
+## AO Mainnet vs Legacynet:
 
-A process in AO is like a self-contained program that persists indefinitely. Each process maintains a "holographic state" which is a complete record of its activity stored as a log of messages on Arweave. This ensures transparency, auditability, and security.
+AO is transitioning from its **Legacynet** test phase into a fully operational **mainnet** powered by AO-Core and HyperBEAM.
 
-### Messages
+- **Legacynet**: AO’s original testnet, designed for early experimentation. While functional, it had limitations in scalability and execution speed due to reliance on free compute nodes provided by Forward Research and other contributors.
+- **Mainnet (AO-Core)**: The production-ready, high-performance version of AO. AO-Core is the **modular execution layer** that ensures decentralized computation, state integrity, and verifiability on Arweave. HyperBEAM is the client implementation for AO-Core.
 
-Every interaction in AO whether initiated by a user or another process is represented as a **message**. These messages:
+## AO-Core
+AO-Core is a protocol for decentralized computation, designed to support multiple computational models rather than enforcing a single architecture. It provides a framework where different execution models can be integrated.
 
-- Adhere to the ANS-104 standard for interoperability.
-- Are permanently stored on Arweave for transparency and verification.
-- Enable seamless communication between processes without creating bottlenecks.
+AO-Core’s key components include:
+- Hashpaths – A way to reference a program’s state before execution using Merklized lists of inputs and initial states.
+- Unified state representation – Program states are structured as [HTTP](https://www.rfc-editor.org/rfc/rfc9110.html) documents, ensuring compatibility with existing web protocols.
+- Attestations – Nodes can verify and challenge each other’s representations of program states, enabling cryptographic and economic mechanisms for trust.
+- Meta-VM – A flexible environment that allows multiple virtual machines and computational models to run within AO-Core while maintaining a unified format for state verification.
 
-Learn more about how [message passing](ao-message-passing.md) on AO works.
+## HyperBEAM
+HyperBeam is a client implementation of the AO-Core protocol, functioning as the node software for AO’s decentralized operating system. It abstracts hardware details, allowing programs to run seamlessly across the network.
 
-### Messenger Units (MUs)
+Node operators can offer their machine’s computing power by running different devices and charging users for execution. Each HyperBeam node is configured using the ~meta@1.0 device, which manages hardware specs, supported devices, metering, and payments.
 
-MUs play a vital role in keeping AO’s messaging system running smoothly. They:
+[→ More details on the latest HyperBEAM milestone](article/hyperbeam-milestone-3.md)
 
-- Relay messages between processes through a procedure called "cranking."
-- Coordinate message routing and handle recursive interactions efficiently.
-- Manage subscriptions and schedule tasks, providing flexibility for users and developers.
+## How AO scales
 
-By ensuring messages flow seamlessly, MUs help maintain AO’s high-performance communication framework.
+Unlike traditional blockchains, AO is designed for large-scale execution with:
 
-### Compute Units (CUs)
+- **Parallel Processing** – Processes run simultaneously, avoiding bottlenecks.
+- **Unlimited Computation** – No cap on size or complexity; users pay only for what they use.
+- **Autonomous Execution** – Processes can schedule tasks and operate independently.
 
-CUs handle the computational workload in AO. When a process needs its state updated or complex calculations performed, CUs step in. They:
+## How message passing works on AO
 
-- Compete in a market to offer efficient computation at the best price.
-- Deliver signed attestations of results, ensuring accuracy and trust.
-- Provide additional services like verifying other nodes’ computations for a fee.
+AO uses a fundamentally different approach to sending transactions. Instead of relying on shared memory, smart contracts on AO operate as independent, asynchronous [processes](https://cookbook_ao.g8way.io/concepts/processes.html).
 
-CUs ensure AO remains efficient and competitive, even as demand grows.
+- Each contract runs independently and communicates with others by sending [messages](https://cookbook_ao.g8way.io/concepts/messages.html).
+- These messages are stored permanently and verifiably on Arweave, ensuring security and transparency.
 
-### Scheduler Units (SUs)
+This design removes the need for a global memory space where processes compete for access, effectively eliminating lock contention.
 
-Scheduler Units oversee the order and integrity of messages in AO processes. When a message is received, SUs:
+[→ Learn more about AO message passing](article/ao-message-passing-explained.md)
 
-- Assign a unique, incremental nonce to maintain message order.
-- Sign the message and persist it to Arweave for immutability.
+## What can I do now on AO?
 
-This ensures that all interactions remain consistent, secure, and reliable.
+For builders, there is a wealth of resources available for building on AO. Check out the [AO Cookbook](https://cookbook_ao.arweave.net/) for step-by-step guides on how to build with the hyper-parallel computer. Visit the [Learn](learn.md) page to see the full ecosystem developer resources.
 
+For users, the [permaweb](permaweb.md) ecosystem is growing with DeFi, gaming, content creation applications, and more. Visit the [Explore](explore.md) page to see the full ecosystem.
+
+If you’re looking to dive deeper into the permaweb, check out the [Permaweb Index](article/permaweb-index.md) to learn about a novel funding mechanism for the ecosystem. Builders can generate funding by fair launching a token, and users can support projects by contributing yield-bearing assets in exchange for project tokens. Please note that the Permaweb Index is a permissionless mechanism, so be sure to do your own research. This is not financial advice.
 
 ## Resources
+
 **AO**
+
 - [Website](https://ao.arweave.net/)
-- [AO Cookbook](https://cookbook_ao.arweave.net/) 
+- [AO Cookbook](https://cookbook_ao.arweave.net/)
 - [Mirror](https://mirror.xyz/0x1EE4bE8670E8Bd7E9E2E366F530467030BE4C840)
 - [X](https://x.com/aoTheComputer)
 
-  
+**Further reading**
 
-**Related Articles**
+- [AO core components](ao-core-components.md)
 - [AO Tokenomics](ao-economics.md)
-- [Message passing](ao-message-passing.md)
+- [How to allocate AO yield](article/ao-yield.md)

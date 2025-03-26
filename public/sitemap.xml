@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+  <loc>https://permaweb-journal.arweave.net/article/ao-gaming-chain.html</loc>
+  <lastmod>2025-03-26T13:56:31.644Z</lastmod>
+</url><url>
   <loc>https://permaweb-journal.arweave.net/article/ao-mainnet-live.html</loc>
   <lastmod>2025-03-10T02:35:11.335Z</lastmod>
 </url><url>
@@ -16,6 +19,9 @@
 </url><url>
   <loc>https://permaweb-journal.arweave.net/article/hyperbeam-milestone-3.html</loc>
   <lastmod>2025-03-24T08:34:02.282Z</lastmod>
+</url><url>
+  <loc>https://permaweb-journal.arweave.net/article/legacynet-mainnet-transition.html</loc>
+  <lastmod>2025-03-25T19:54:13.786Z</lastmod>
 </url><url>
   <loc>https://permaweb-journal.arweave.net/article/permaweb-index-takeaways.html</loc>
   <lastmod>2025-03-17T10:11:22.551Z</lastmod>
@@ -113,14 +119,11 @@
   <loc>https://permaweb-journal.arweave.net/projects/sevenx-ventures.html</loc>
   <lastmod>2025-03-24T14:50:25.664Z</lastmod>
 </url><url>
-  <loc>https://permaweb-journal.arweave.net/reference/ao-bridge.html</loc>
-  <lastmod>2025-02-11T10:44:08.812Z</lastmod>
+  <loc>https://permaweb-journal.arweave.net/reference/ao-core-components.html</loc>
+  <lastmod>2025-03-25T12:39:09.943Z</lastmod>
 </url><url>
   <loc>https://permaweb-journal.arweave.net/reference/ao-economics.html</loc>
   <lastmod>2025-02-11T10:44:08.813Z</lastmod>
-</url><url>
-  <loc>https://permaweb-journal.arweave.net/reference/ao-message-passing.html</loc>
-  <lastmod>2025-02-11T10:44:08.815Z</lastmod>
 </url><url>
   <loc>https://permaweb-journal.arweave.net/reference/ao.html</loc>
   <lastmod>2025-03-19T16:22:20.436Z</lastmod>

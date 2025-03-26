@@ -16,6 +16,46 @@ Coverage of the permaweb ecosystem. Technical deep dives, project updates, op-ed
 
 <div class="article-text">
 
+<h3><a href="article/ao-gaming-chain.md">AO is shaping up to become a gaming chain</a></h3>
+
+<p><em>March 26, 2025</em></p>
+
+<p>Gaming on AO is one of the most exciting areas to watch. This post explores why AO is positioned to become a leading gaming chain.</p>
+
+</div>
+
+<a href="article/ao-gaming-chain.md" class="article-thumbnail">
+
+<img src="/static/images/ao-gaming-chain.png" alt="Permaweb Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/legacynet-mainnet-transition.md">The transition from AO legacynet to mainnet: What builders and users need to know</a></h3>
+
+<p><em>March 25, 2025</em></p>
+
+<p>This post explains why the transition from legacynet to mainnet matters, the current state of HyperBEAM, and how both developers and users can prepare.</p>
+
+</div>
+
+<a href="article/legacynet-mainnet-transition.md" class="article-thumbnail">
+
+<img src="/static/images/mainnet-transition.png" alt="Permaweb Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/hyperbeam-milestone-3.md">Legacynet SU compatibility: What this latest update means for HyperBEAM</a></h3>
 
 <p><em>March 24, 2025</em></p>
