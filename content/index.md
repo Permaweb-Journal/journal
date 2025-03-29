@@ -13,6 +13,26 @@ excludeMeta: "true"
 
 <div class="article-text">
 
+<h3><a href="article/hyperbeam-node-gold-giveaway.md">Chance to win a pure GOLD floppy disk by running a HyperBEAM node</a></h3>
+
+<p><em>March 29, 2025</em></p>
+
+<p>Less than a week left in the Gold Standard Nodes PURE GOLD floppy disk (valued at over $10,000) giveaway to onboard new node operators and decentralize the AO network.</p>
+
+</div>
+
+<a href="article/ao-gaming-chain.md" class="article-thumbnail">
+
+<img src="/static/images/hyperbeam-gold-header.png" alt="Permaweb Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/ao-gaming-chain.md">AO is shaping up to become a gaming chain</a></h3>
 
 <p><em>March 26, 2025</em></p>
