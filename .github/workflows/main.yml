@@ -22,7 +22,7 @@ jobs:
                   git checkout $default_branch
                   git branch -a
             - name: 'Setup node 18'
-              uses: actions/setup-node@v3
+              uses: actions/setup-node@v4
               with:
                   node-version: 18.x
             - name: 'Sync repo to Protocol Land'
