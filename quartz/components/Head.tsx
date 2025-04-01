@@ -218,7 +218,7 @@ export default (() => {
             <meta property="twitter:url" content={socialUrl}></meta>
           </>
         )}
-        <link rel="icon" href={iconPath} />
+        <link rel="icon" href="https://arweave.net/zvqUfg45OXj6LNOpjqP_jhPcdcDDYN2pgi6rzKWo2gU" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
