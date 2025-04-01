@@ -16,6 +16,26 @@ Coverage of the permaweb ecosystem. Technical deep dives, project updates, op-ed
 
 <div class="article-text">
 
+<h3><a href="article/how-arweave-scales.md">How Arweave scales (and why that matters for AO)</a></h3>
+
+<p><em>March 31, 2025</em></p>
+
+<p>Explore how Arweave achieves scalable, permanent data storage through bundled uploads and sustainable economics, and why it’s powering the future of decentralized compute with AO.</p>
+
+</div>
+
+<a href="article/how-arweave-scales.md" class="article-thumbnail">
+
+<img src="/static/images/arweave-scales-header.png" alt="Arweave Scalable Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/hyperbeam-node-gold-giveaway.md">Chance to win a pure GOLD floppy disk by running a HyperBEAM node</a></h3>
 
 <p><em>March 29, 2025</em></p>

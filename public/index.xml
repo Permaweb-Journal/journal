@@ -6,6 +6,12 @@
       <description>Last 10 notes on Permaweb Journal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+  <title>How Arweave scales (and why that matters for AO)</title>
+  <link>https://permaweb-journal.arweave.net/article/how-arweave-scales.html</link>
+  <guid>https://permaweb-journal.arweave.net/article/how-arweave-scales.html</guid>
+  <description>Explore how Arweave achieves scalable, permanent data storage through bundled uploads and sustainable economics, and why it’s powering the future of decentralized compute with ...</description>
+  <pubDate>Mon, 31 Mar 2025 18:55:12 GMT</pubDate>
+</item><item>
   <title>Chance to win a pure GOLD floppy disk by running a HyperBEAM node</title>
   <link>https://permaweb-journal.arweave.net/article/hyperbeam-node-gold-giveaway.html</link>
   <guid>https://permaweb-journal.arweave.net/article/hyperbeam-node-gold-giveaway.html</guid>
@@ -59,12 +65,6 @@
   <guid>https://permaweb-journal.arweave.net/projects/ao-ventures.html</guid>
   <description>AO and Arweave incubator and venture fund.</description>
   <pubDate>Mon, 24 Mar 2025 14:38:50 GMT</pubDate>
-</item><item>
-  <title>AOX</title>
-  <link>https://permaweb-journal.arweave.net/projects/quantum.html</link>
-  <guid>https://permaweb-journal.arweave.net/projects/quantum.html</guid>
-  <description>Bridge, trade, earn on AO with USDA and Q Arweave.</description>
-  <pubDate>Mon, 24 Mar 2025 14:34:35 GMT</pubDate>
 </item>
     </channel>
   </rss>
