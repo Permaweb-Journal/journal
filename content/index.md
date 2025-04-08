@@ -13,6 +13,46 @@ excludeMeta: "true"
 
 <div class="article-text">
 
+<h3><a href="article/copus-product-review.md">Copus Product Review: A New Way to Link Creative Work Across the Web [Guest Post]</a></h3>
+
+<p><em>April 8, 2025</em></p>
+
+<p>Copus is a web-based platform that lets creators link and contextualize their work across the open internet. This review explores how Copus rethinks online publishing by building a network of creative relationships—beyond the walls of traditional social platforms.</p>
+
+</div>
+
+<a href="article/copus-product-review.md" class="article-thumbnail">
+
+<img src="/static/images/copus-header.png" alt="Copus Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/fetching-arweave-data-in-ao.md">How AO processes fetch Arweave data with assignments</a></h3>
+
+<p><em>April 3, 2025</em></p>
+
+<p>The traditional web is ephemeral. APIs go down, links rot, and compute is detached from memory. AO and Arweave offer a solution to this.</p>
+
+</div>
+
+<a href="article/fetching-arweave-data-in-ao.md" class="article-thumbnail">
+
+<img src="/static/images/process-fetch.png" alt="Arweave Scalable Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/how-arweave-scales.md">How Arweave scales (and why that matters for AO)</a></h3>
 
 <p><em>March 31, 2025</em></p>

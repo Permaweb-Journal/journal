@@ -38,6 +38,23 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 
+      if (fileData.frontmatter?.contributor) {
+        const contributor = fileData.frontmatter.contributor
+
+        if (typeof contributor === "string") {
+          segments.push(<span>Guest post by {contributor}</span>)
+        } else if (typeof contributor === "object" && contributor.name && contributor.x) {
+          segments.push(
+            <span>
+              Guest post by{" "}
+              <a href={`https://x.com/${contributor.x}`} target="_blank" rel="noopener noreferrer">
+                {contributor.name}
+              </a>
+            </span>,
+          )
+        }
+      }
+
       // Display reading time if enabled
       if (options.showReadingTime) {
         const { minutes, words: _words } = readingTime(text)
