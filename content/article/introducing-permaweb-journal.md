@@ -1,6 +1,6 @@
 ---
 title: Introducing Permaweb Journal
-description: Introducing Permweb Journal, an onchain publication and knowledge hub dedicated to covering the future of the internet and digital society built on Arweave and AO.
+description: Introducing Permaweb Journal — an onchain publication for Arweave and AO.
 permalink: /news/introducing-permaweb-journal.html
 tags:
 ---

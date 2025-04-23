@@ -1,7 +1,7 @@
 ---
 title: How Arweave scales (and why that matters for AO)
-description: Explore how Arweave achieves scalable, permanent data storage through bundled uploads and sustainable economics, and why it’s powering the future of decentralized compute with AO.
-permalink:
+description: How Arweave achieves permanent storage at scale.
+permalink: 
 tags:
 ---
 

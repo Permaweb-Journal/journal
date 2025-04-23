@@ -156,7 +156,7 @@ To connect with the AO community, join the [AO Discord](https://discord.gg/dYXtH
 - [Arweave](reference/arweave.md)
 - [AO Permaweb Guide](ao-permaweb-guide.md)
 - [AO nomenclature explained](ao-nomenclature.md)
-- [How message passing work on AO](ao-message-passing-explained.md)
+- [AO message passing explained](ao-message-passing-explained.md)
 
 ## Resources
 

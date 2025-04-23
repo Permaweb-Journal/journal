@@ -1,9 +1,10 @@
 ---
-title: Atomic Assets
-description: 
+title: Atomic Assets - More Than NFTs
+description: Atomic Assets make digital ownership permanent and programmable on Arweave and AO.
 permalink: 
 tags:
 ---
+
 Atomic Assets are unique digital items stored on the permaweb, designed to simplify the ownership and transfer of digital assets while ensuring security and permanence. Unlike traditional NFTs, the data of an atomic asset—its metadata and smart contract—are uploaded together in a single, inseparable transaction. This eliminates reliance on external components, unlike other blockchains where these elements are often stored separately and linked by the smart contract.
 
 Atomic Assets can represent anything from art, music, and videos to applications, domain names, or memberships.

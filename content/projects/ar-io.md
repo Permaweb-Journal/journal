@@ -1,5 +1,5 @@
 ---
-title: ar.io
+title: ar.io - Permanent Cloud Infrastructure
 description: The AR.IO ecosystem is dedicated to cultivating products and protocols for sustaining access to digital permanence, making the permaweb available to everyone
 permalink: /projects/ar-io.html
 excludeMeta: "true"

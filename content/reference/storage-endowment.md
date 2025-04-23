@@ -1,6 +1,6 @@
 ---
 title: Storage Endowment
-description: 
+description: How Arweave funds permanent storage with a one-time fee.
 permalink: 
 tags:
 ---

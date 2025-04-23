@@ -1,8 +1,8 @@
 ---
 title: "Copus Product Review: A New Way to Link Creative Work Across the Web"
-description: Copus is a web-based platform that lets creators link and contextualize their work across the open internet. This review explores how Copus rethinks online publishing by building a network of creative relationships—beyond the walls of traditional social platforms.
-permalink:
-tags:
+description: A review of Copus and its approach to decentralized publishing.
+permalink: 
+tags: 
 contributor:
   name: Ishioma Light [Horizon]
   x: HorizonXBT

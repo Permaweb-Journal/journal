@@ -1,6 +1,6 @@
 ---
 title: Economics of the AO Computer
-description: 
+description: Understand AO’s token economics in this in depth guide.
 permalink: 
 tags:
 ---

@@ -1,10 +1,12 @@
 ---
-title: "The transition from AO legacynet to mainnet: What builders and users need to know"
+title: "The transition from AO legacynet to mainnet explained"
 description: This post explains why the transition from legacynet to mainnet matters, the current state of HyperBEAM, and how both developers and users can prepare.
 permalink: /article/legacynet-mainnet-transition.html
 tags:
 ---
+
 ![Permaweb Header](/static/images/mainnet-transition.png)
+
 ## I. Introduction
 
 The recent [HyperBEAM Milestone 3](https://x.com/samecwilliams/status/1903537896516194523) PR marks an important technical update to allow the transition from legacynet to mainnet by enabling legacynet processes to execute on HyperBEAM. Since data on both legacynet and mainnet is stored on Arweave, both networks can execute the same data. This shift will significantly improve AO’s scalability and efficiency. This post explains why the transition matters, the current state of HyperBEAM, and how both developers and users can prepare.
@@ -24,6 +26,7 @@ Milestone 3 is feature-complete but still requires optimization. The **preview s
 This version of [HyperBEAM](https://github.com/permaweb/HyperBEAM) allows developers to write data to legacynet scheduled processes and compute their outputs. However, it should not yet be relied upon for **100% accuracy** until further testing and validation are completed.
 
 **Key highlights of milestone 3:**
+
 - **Scheduler Compatibility:** GET and POST requests to AO legacynet schedulers via ~scheduler@1.0, enabling seamless execution on HyperBEAM.
 - **TEE-Based Compute:** ~green-zone@1.0 supports **trusted execution environments (TEE)** for secure, decentralized computation.
 - **Optimized Performance:** Enhanced **message encoding efficiency** and **ANS-104 tag normalization** for smoother processing.
@@ -44,10 +47,12 @@ AO-Core is designed with modularity in mind. Think of it as a decentralized supe
 As mentioned earlier, Milestone 3 is feature-complete but still requires optimization. Developers can begin writing data to legacynet scheduled processes and computing their outputs on HyperBEAM.
 
 To get started, developers can spin up HyperBEAM nodes. More details can be found in the [HyperBEAM GitHub documentation](https://github.com/permaweb/HyperBEAM).
--  [Join the HyperBEAM node operator Discord here](https://discord.com/invite/nYbkajGd)
+
+- [Join the HyperBEAM node operator Discord here](https://discord.com/invite/nYbkajGd)
 
 App developers can process payments on AO-Core through AOS. More details can be found in the [AO Cookbook guide](https://cookbook_ao.arweave.net/mainnet/ao-core-relay.html).
--  [Join the main AO Discord here](https://discord.gg/dYXtHwc9dc)
+
+- [Join the main AO Discord here](https://discord.gg/dYXtHwc9dc)
 
 ## VI. How users can prepare
 
@@ -69,9 +74,11 @@ AO is not like other blockchains. It presents a new approach to decentralized co
 - [AO mainnet is live](ao-mainnet-live.md)
 - [AO nomenclature explained](ao-nomenclature.md)
 - [How message passing work on AO](ao-message-passing-explained.md)
+
 ## Resources
 
 **AO**
+
 - [Website](https://ao.arweave.net/)
 - [X](https://x.com/aoTheComputer)
 - [Mirror](https://mirror.xyz/0x1EE4bE8670E8Bd7E9E2E366F530467030BE4C840)

@@ -1,7 +1,7 @@
 ---
 title: Chance to win a pure GOLD floppy disk by running a HyperBEAM node
-description: Less than a week left in the Gold Standard Nodes PURE GOLD floppy disk (valued at over $10,000) giveaway to onboard new node operators and decentralize the AO network.
-permalink:
+description: Join the AO node giveaway and win a $10k Gold floppy disk.
+permalink: 
 tags:
 ---
 

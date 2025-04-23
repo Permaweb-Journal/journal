@@ -1,6 +1,6 @@
 ---
-title: AO 101
-description: AO is a decentralized supercomputer powered by Arweave
+title: AO 101 - Intro to the Hyper Parallel Computer
+description: AO is a decentralized supercomputer powered by Arweave.
 permalink: 
 tags: 
 excludeMeta: "true"
@@ -25,6 +25,7 @@ AO is powered by several key components that handle storage, computation, and co
 - **Scheduler Units (SUs)** – Maintain order and integrity of all messages.
 
 For more detailed information on how these components work together, visit the [core components](ao-core-components.md) page.
+
 ## AO Mainnet vs Legacynet:
 
 AO is transitioning from its **Legacynet** test phase into a fully operational **mainnet** powered by AO-Core and HyperBEAM.
@@ -33,15 +34,18 @@ AO is transitioning from its **Legacynet** test phase into a fully operational *
 - **Mainnet (AO-Core)**: The production-ready, high-performance version of AO. AO-Core is the **modular execution layer** that ensures decentralized computation, state integrity, and verifiability on Arweave. HyperBEAM is the client implementation for AO-Core.
 
 ## AO-Core
+
 AO-Core is a protocol for decentralized computation, designed to support multiple computational models rather than enforcing a single architecture. It provides a framework where different execution models can be integrated.
 
 AO-Core’s key components include:
+
 - Hashpaths – A way to reference a program’s state before execution using Merklized lists of inputs and initial states.
 - Unified state representation – Program states are structured as [HTTP](https://www.rfc-editor.org/rfc/rfc9110.html) documents, ensuring compatibility with existing web protocols.
 - Attestations – Nodes can verify and challenge each other’s representations of program states, enabling cryptographic and economic mechanisms for trust.
 - Meta-VM – A flexible environment that allows multiple virtual machines and computational models to run within AO-Core while maintaining a unified format for state verification.
 
 ## HyperBEAM
+
 HyperBeam is a client implementation of the AO-Core protocol, functioning as the node software for AO’s decentralized operating system. It abstracts hardware details, allowing programs to run seamlessly across the network.
 
 Node operators can offer their machine’s computing power by running different devices and charging users for execution. Each HyperBeam node is configured using the ~meta@1.0 device, which manages hardware specs, supported devices, metering, and payments.

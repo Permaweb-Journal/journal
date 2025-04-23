@@ -1,7 +1,7 @@
 ---
 title: Bazar's PIXL fair launch token
-description:
-permalink:
+description: Explore the fair launch of PIXL, the official Bazar token redefining asset ownership and creative publishing on the permaweb.
+permalink: 
 tags:
 ---
 

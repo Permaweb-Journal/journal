@@ -1,8 +1,8 @@
 ---
 title: AO mainnet is live
-description:
+description: AO mainnet is live. Here’s what’s new and what’s next.
 permalink: /article/ao-mainnet-live.html
-tags: []
+tags:
 ---
 
 ![AO Mainnet Header](/static/images/ao-mainnet-header.webp)

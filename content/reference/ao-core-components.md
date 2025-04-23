@@ -1,6 +1,6 @@
 ---
 title: AO core components
-description: AO is powered by a modular architecture that ensures secure, scalable, and efficient computation. This page provides an in-depth look at AO's core components and their roles in the network.
+description: An overview of AO’s modular compute architecture.
 permalink: 
 tags:
 ---

@@ -1,6 +1,9 @@
 ---
 title: Permaweb | Journal
 excludeMeta: "true"
+description: Onchain publication exploring Arweave, AO, and the permanent web.
+permalink:
+tags:
 ---
 
 **Permaweb Journal** is an onchain publication and knowledge hub exploring the future of the internet and digital society built on Arweave and AO. Discover the permaweb through in-depth [articles](articles.md), [ecosystem projects](explore.md), and [technical resources](learn.md).
@@ -8,6 +11,106 @@ excludeMeta: "true"
 ---
 
 ## Latest Articles
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/arweave-day-india-preview.md">Arweave Day India Preview</a></h3>
+
+<p><em>April 18, 2025</em></p>
+
+<p>Explore Arweave Day India, a community-driven event in Bengaluru uniting builders, developers, and researchers shaping the future of the permaweb and AO. Preview the agenda, featured projects, and what to expect from the ecosystem’s first Arweave Day India.</p>
+
+</div>
+
+<a href="article/arweave-day-india-preview.md" class="article-thumbnail">
+
+<img src="/static/images/adi-header.png" alt="AO Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/hyperbeam-overview.md">HyperBEAM: Everything You Need to Know</a></h3>
+
+<p><em>April 15, 2025</em></p>
+
+<p>HyperBEAM is the client implementation of AO Core, powering verifiable, message-based computation for scalable and permanent apps on the permaweb.</p>
+
+</div>
+
+<a href="article/hyperbeam-overview.md" class="article-thumbnail">
+
+<img src="/static/images/hyperbeam-overview-header.png" alt="AO Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/ao-token-utility.md">Utility of the AO Token: Powering the Decentralized Supercomputer</a></h3>
+
+<p><em>April 14, 2025</em></p>
+
+<p>Explore how the AO token powers a decentralized supercomputer by securing the network, fueling computation, and supporting sustainable ecosystem growth through a Bitcoin-inspired economic model.</p>
+
+</div>
+
+<a href="article/ao-token-utility.md" class="article-thumbnail">
+
+<img src="/static/images/ao-token-header.png" alt="AO Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/hyperbeam-eliminates-dryruns.md">HyperBEAM eliminates the need for DryRuns</a></h3>
+
+<p><em>April 11, 2025</em></p>
+
+<p>Learn how HyperBEAM removes the need for DryRuns in AO by enabling direct, verifiable access to process state via HTTP. A simpler, faster path to building on the permaweb.</p>
+
+</div>
+
+<a href="article/hyperbeam-eliminates-dryruns.md" class="article-thumbnail">
+
+<img src="/static/images/dryruns-header.png" alt="AO Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/ao-core-deepdive.md">AO-Core: Everything you need to know</a></h3>
+
+<p><em>April 9, 2025</em></p>
+
+<p>AO-Core is a decentralized computation protocol built on Arweave. Learn how it uses hashpaths, modular devices, and verifiable messages to power scalable, trustless applications on the permaweb.</p>
+
+</div>
+
+<a href="article/ao-core-deepdive.md" class="article-thumbnail">
+
+<img src="/static/images/ao-core-header.png" alt="AO Header">
+
+</a>
+
+</div>
 
 <div class="article-container">
 
@@ -275,7 +378,7 @@ excludeMeta: "true"
 
 <div class="article-text">
 
-<h3><a href="news/introducing-permaweb-journal.md">Introducing Permaweb Journal</a></h3>
+<h3><a href="article/introducing-permaweb-journal.md">Introducing Permaweb Journal</a></h3>
 
 <p><em>March 10, 2025</em></p>
 
@@ -283,7 +386,7 @@ excludeMeta: "true"
 
 </div>
 
-<a href="news/introducing-permaweb-journal.md" class="article-thumbnail">
+<a href="article/introducing-permaweb-journal.md" class="article-thumbnail">
 
 <img src="/static/og-image.png" alt="Permaweb Journal Header">
 

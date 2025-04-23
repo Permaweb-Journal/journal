@@ -1,9 +1,10 @@
 ---
-title: Arweave Mining
-description: 
+title: Arweave Mining - How Storage Is Secured Permanently
+description: How Arweave mining secures permanent data.
 permalink: 
 tags:
 ---
+
 Mining on the Arweave network is designed to ensure that data stored on the network is replicated as widely as possible. Here’s a breakdown from a high level perspective. If you would like to start mining, see the mining documentation [here](https://docs.arweave.org/info/mining/mining-guide).
 
 ## What Is Mining on Arweave?

@@ -48,7 +48,7 @@ Autonomous Finance is a dedicated research and technology entity, focusing on th
 
 </div>
 
-<a href="article/.md" class="article-thumbnail">
+<a href="article/ao-yield.md" class="article-thumbnail">
 
 <img src="/static/images/pi-header.png" alt="PI Header">
 

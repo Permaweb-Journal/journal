@@ -1,6 +1,6 @@
 ---
 title: Universal Data License (UDL)
-description: 
+description: The UDL sets programmable licensing terms for digital content on the permaweb.
 permalink: 
 tags:
 ---

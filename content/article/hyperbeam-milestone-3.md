@@ -1,6 +1,6 @@
 ---
-title: "Legacynet SU compatibility: What this latest update means for HyperBEAM"
-description: "AO-Core just hit a major milestone: legacynet processes can now execute on HyperBEAM. This update brings seamless interoperability, improved performance, and a smoother transition from testnet to mainnet. Learn what this means for developers and the future of AO."
+title: "HyperBEAM Milestone 3: Legacynet SU compatibility on mainnet"
+description: HyperBEAM now supports legacynet execution. Here's why it matters.
 permalink: /article/hyperbeam-milestone-3.html
 tags:
 ---

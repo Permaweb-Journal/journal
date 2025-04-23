@@ -1,6 +1,6 @@
 ---
 title: AO release nomenclature explained
-description: AO mainnet is live, but what does that mean? This blog breaks down the AO software release phases, key milestones like AO-Core and HyperBEAM, and what’s next for the permaweb.
+description: Understand AO’s release phases and terminology.
 permalink: /article/ao-nomenclature.html
 published: 2025-02-27
 tags: 

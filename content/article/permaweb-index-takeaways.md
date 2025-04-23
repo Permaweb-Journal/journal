@@ -1,7 +1,7 @@
 ---
 title: "Permaweb Index is live: Key takeaways"
-description: The Permaweb Index went live on Pi Day (3.14), introducing a new method for users to allocate their AO yield to ecosystem projects in exchange for the project tokens. Here are the key takeaways from the launch.
-permalink:
+description: Takeaways from the launch of the Permaweb Index.
+permalink: 
 tags:
 ---
 

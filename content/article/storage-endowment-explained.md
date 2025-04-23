@@ -1,7 +1,7 @@
 ---
 title: How Arweave’s storage endowment ensures permanent data storage
-description: Arweave's usage is a buyback and burn of it's tokens. This article explains how this is done with Arweave's storage endowment.
-permalink:
+description: This article explains the storage endowment and why Arweave has no recurring fees.
+permalink: 
 tags:
 ---
 

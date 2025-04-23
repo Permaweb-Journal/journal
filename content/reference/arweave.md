@@ -1,7 +1,7 @@
 ---
-title: Arweave 101
-description: Arweave is a decentralized protocol designed for **permanent storage** of data.
-permalink:
+title: Arweave 101 - Understanding the Permanent Web
+description: Arweave is a decentralized data storage protocol designed for permanent onchain storage. Learn how it enables long-term data storage.
+permalink: 
 tags:
 ---
 

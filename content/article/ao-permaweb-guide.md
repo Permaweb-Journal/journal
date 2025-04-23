@@ -1,6 +1,6 @@
 ---
 title: The role of AO in the permaweb ecosystem - A beginner’s guide
-description: The permaweb is a permanent, decentralized web built on Arweave, and AO provides the computational layer to power its next evolution. Learn how AO and HyperBeam enables decentralized applications, sustainable funding, and a new paradigm for the web.
+description: How AO and Arweave make up the permaweb.
 permalink: /article/ao-permaweb-guide.html
 tags:
 ---

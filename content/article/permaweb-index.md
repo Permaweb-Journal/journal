@@ -1,6 +1,6 @@
 ---
-title: "PI Day 2025: The Permaweb Index Goes Live – Everything You Need to Know"
-description: The Permaweb Index (PI) launches on Pi Day 2025, introducing a fair launch model for funding permaweb projects. Learn how PI works and how to get involved.
+title: "Permaweb Index - Everything you need to know"
+description: The Permaweb Index (PI) went live on PI Day 2025, introducing a fair launch model for funding permaweb projects. Learn how PI works and how to get involved.
 permalink:
 tags:
 ---
@@ -9,7 +9,7 @@ tags:
 
 ## I. Introduction
 
-The Permaweb Index (PI) token goes live on Pi Day (3.14), marking a major shift in how crypto projects can be funded. Traditionally, venture capital firms and angel investors have had an unfair advantage, acquiring discounted tokens before public availability. These insiders often sell their holdings at price peaks, “dumping” on retail investors and creating volatility and downside risk.
+The Permaweb Index (PI) token went live on Pi Day (3.14), marking a major shift in how crypto projects can be funded. Traditionally, venture capital firms and angel investors have had an unfair advantage, acquiring discounted tokens before public availability. These insiders often sell their holdings at price peaks, “dumping” on retail investors and creating volatility and downside risk.
 
 ## II. What is the Permaweb Index?
 

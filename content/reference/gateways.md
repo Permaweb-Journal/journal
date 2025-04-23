@@ -1,9 +1,10 @@
 ---
-title: Gateways
-description: 
+title: Gateways - Accessing the Permaweb Network
+description: Gateways connect Arweave to the web. Here’s how they work.
 permalink: 
 tags:
 ---
+
 ## What Are Gateways?
 
 Gateways are tools that connect the Arweave network, where data is stored permanently, to the internet. They simplify uploading, accessing, and searching for data on the Arweave network, eliminating the need for technical expertise. Think of them as bridges between the blockchain world and everyday web use.
@@ -22,7 +23,6 @@ The permaweb can be accessed through over 250 AR.IO gateways. Gateways act as a 
 - [https://ao.frostor.xyz/](https://ao.frostor.xyz/)
 - [https://ao.permagate.io/](https://ao.permagate.io/e.io/)
 - [https://ao.arbr.pro/](https://ao.arbr.pro/)
-- [https://ao.ar-io.dev/](https://ao.ar-io.dev/)
 - [https://ao.arweave.dev/](https://ao.arweave.dev/)
 
 ## Tips for Using Gateways

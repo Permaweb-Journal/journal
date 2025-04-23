@@ -1,9 +1,10 @@
 ---
-title: Zones
-description: 
+title: Zones - Programmable Permaweb Entities
+description: Zones are digital identities within the AO network that represent organizations, profiles and more.
 permalink: 
 tags:
 ---
+
 Zones are **digital containers** in the AO ecosystem that represent entities such as user profiles, organizations, or channels. They store information about these entities and can perform actions on their behalf. Think of them as programmable spaces where data and functionality are organized for a specific purpose.
 
 One of the first use cases for Zones is **AO Profiles**. Profiles are digital representations of entities (e.g., users, organizations, or channels). They instantiate Zones with specific metadata describing the entity and can be associated with various digital assets and collections.
