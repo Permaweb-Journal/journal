@@ -34,7 +34,7 @@ const defaultOptions = {
     }
   },
   filterFn: (node) => {
-    const allowedFiles = ["articles", "explore", "learn", "newsletter"]
+    const allowedFiles = ["articles", "explore", "learn", "events", "newsletter"]
 
     // Ensure it's a file (not a folder) and is in the allowed list
     return node.file !== null && allowedFiles.includes(node.name)
