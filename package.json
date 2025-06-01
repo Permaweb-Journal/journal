@@ -98,7 +98,7 @@
     "vfile": "^6.0.3",
     "workerpool": "^9.2.0",
     "ws": "^8.18.1",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/cli-spinner": "^0.2.3",
