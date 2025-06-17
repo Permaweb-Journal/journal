@@ -16,6 +16,126 @@ Coverage of the permaweb ecosystem. Technical deep dives, project updates, op-ed
 
 <div class="article-text">
 
+<h3><a href="article/bazar-micro-orderbook.md">Scaling Bazar with Micro-Orderbooks and HyperBEAM</a></h3>
+
+<p><em>June 16, 2025</em></p>
+
+<p>Explore how Bazar is scaling with micro-orderbooks, HyperBEAM integration, and modular architecture to power the permaweb’s decentralized media ecosystem.</p>
+
+</div>
+
+<a href="article/bazar-micro-orderbook.md" class="article-thumbnail">
+
+<img src="/static/images/bazar-hb-header.png" alt="Bazar HyperBEAM Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/hyperbeam-milestone-3-beta.md">HyperBEAM Milestone 3 Launches in Beta</a></h3>
+
+<p><em>June 11, 2025</em></p>
+
+<p>Milestone 3 (Beta 1) marks a critical turning point for AO. It enables legacynet process execution inside HyperBEAM and introduces a confidential compute device called ~greenzone@1.0.</p>
+
+</div>
+
+<a href="article/hyperbeam-milestone-3-beta.md" class="article-thumbnail">
+
+<img src="/static/images/hb-m3.png" alt="HyperBEAM Milestone 3 Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/permaweb-romanticism.md">The case for Permaweb Romanticism</a></h3>
+
+<p><em>May 28, 2025</em></p>
+
+<p>With Arweave and AR.IO live on mainnet, and AO’s HyperBEAM entering maturity, the permaweb is ready for its next evolution: Permaweb Romanticism.</p>
+
+</div>
+
+<a href="article/permaweb-romanticism.md" class="article-thumbnail">
+
+<img src="/static/images/romanticism-header.png" alt="Permaweb Romanticism Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/arweave-thoughtcrimes.md">Arweave is for thoughtcrimes</a></h3>
+
+<p><em>May 20, 2025</em></p>
+
+<p>Arweave and the permaweb stack is the last refuge for digital thoughtcrimes in a world of censorship, protocol capture, and institutional creep.</p>
+
+</div>
+
+<a href="article/arweave-thoughtcrimes.md" class="article-thumbnail">
+
+<img src="/static/images/arweave-thoughtcrimes-header.png" alt="Permabites Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/permabites.md">AO Permabite meetups are live</a></h3>
+
+<p><em>May 14, 2025</em></p>
+
+<p>Permabites is a new grassroots initiative bringing permaweb builders together through local meetups. From Nigeria to India, AO community members are already hosting events. Learn how to start your own and connect with the ecosystem.</p>
+
+</div>
+
+<a href="article/permabites.md" class="article-thumbnail">
+
+<img src="/static/images/permabites-header.png" alt="Permabites Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
+<h3><a href="article/bazar-community-hub.md">Bazar launches Community Hub support on Discord</a></h3>
+
+<p><em>May 09, 2025</em></p>
+
+<p>Bazar launches Community Hub support on Discord, allowing permaweb creators and projects to host micro-communities without needing their own servers.</p>
+
+</div>
+
+<a href="article/bazar-community-hub.md" class="article-thumbnail">
+
+<img src="/static/images/bazar-discord.png" alt="Bazar Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/arweave-day-india-preview.md">Arweave Day India Preview</a></h3>
 
 <p><em>April 18, 2025</em></p>

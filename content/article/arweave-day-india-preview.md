@@ -100,3 +100,7 @@ Arweave Day India is not just a conference. It’s where builders, researchers, 
 Two experience days. One Hacker House. 50+ builders. 200+ attendees. All in the heart of Bengaluru. [RSVP here](https://lu.ma/arweave-day-ind?tk=qhVriK).
 
 Stay tuned to [Permaweb Journal](https://yourjournal.com/events/adi) for daily coverage, developer interviews, and a post-eventrecap documenting the people and protocols shaping the permaweb.
+
+## Further reading
+
+- [Permaweb Events](events.md)

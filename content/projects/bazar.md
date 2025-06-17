@@ -20,6 +20,26 @@ Bazar is a decentralized atomic asset exchange built on the permaweb. Bazar empo
 
 <div class="article-text">
 
+<h3><a href="article/bazar-community-hub.md">Bazar launches Community Hub support on Discord</a></h3>
+
+<p><em>May 09, 2025</em></p>
+
+<p>Bazar launches Community Hub support on Discord, allowing permaweb creators and projects to host micro-communities without needing their own servers.</p>
+
+</div>
+
+<a href="article/bazar-community-hub.md" class="article-thumbnail">
+
+<img src="/static/images/bazar-discord.png" alt="Bazar Header">
+
+</a>
+
+</div>
+
+<div class="article-container">
+
+<div class="article-text">
+
 <h3><a href="article/pixl-fair-launch.md">Bazar's PIXL fair launch token</a></h3>
 
 <p><em>March 18, 2025</em></p>
